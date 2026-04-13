@@ -8,7 +8,7 @@ formations. It models Rate of Penetration, Mechanical Specific Energy, bit wear,
 mud hydraulics, and thermal profiles for crystalline rock environments.
 
 ## Target environments
-- United Downs, Cornwall (Carnmenellis Granite) — in collaboration with GEL
+- United Downs, Cornwall (Carnmenellis Granite)
 - Utah FORGE, Milford Utah (granitoid basement) — validated against open DOE data
 
 ## Licence
