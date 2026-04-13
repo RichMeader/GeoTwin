@@ -17,3 +17,18 @@ MIT — open source, free to use and build upon.
 ## Activating the environment
 source venv/bin/activate
 python geotwin_engine/geotwin_engine.py
+
+## Using GeoTwin
+1. Clone the repo
+git clone https://github.com/RichMeader/GeoTwin.git
+cd GeoTwin
+
+4. Create a virtual environment
+python3 -m venv venv
+source venv/bin/activate (Mac/Linux, or on Windows: venv\Scripts\activate)
+
+5. Install dependencies
+pip install numpy scipy matplotlib pandas pyyaml
+
+6. Run the simulator
+python geotwin_engine/geotwin_engine.py
